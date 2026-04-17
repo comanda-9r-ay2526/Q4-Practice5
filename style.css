@@ -1,0 +1,13 @@
+body {
+    background-image: url(bmw-m3-touring-24h-01-16x9-st.avif);
+    
+}
+
+.container {
+    padding: 20px;
+    margin-top: 50px;
+    width:100%;
+    max-width:1100px;
+    border: 2px solid #1010108e;
+    background-color:rgb(237, 237, 237);
+}
